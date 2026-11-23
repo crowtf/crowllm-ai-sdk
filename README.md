@@ -1,6 +1,6 @@
 # crowllm-ai-sdk
 
-[CrowLLM](https://crowllm.com) provider for the [Vercel AI SDK](https://ai-sdk.dev). CrowLLM is an OpenAI-compatible gateway: one endpoint and one key for 180+ models, with a zero-rated `:free` shelf next to the paid ids.
+[CrowLLM](https://crowllm.com) provider for the [Vercel AI SDK](https://ai-sdk.dev). CrowLLM is an OpenAI-compatible gateway: one endpoint and one key for 180+ models, with a `:free` shelf next to the paid ids (31 of the 40 `:free` ids were zero-rated on 2026-11-22).
 
 ## Install
 
@@ -37,7 +37,7 @@ Any id from the public catalog works. Commonly used ids:
 - `deepseek-v4-flash` — fast and cheap default
 - `glm-5.3`, `kimi-k3` — coding-oriented
 - `claude-opus-4-7`, `gpt-5.6-sol`, `gemini-3.7-flash` — frontier general models
-- `qwen-3.8-27b:free` — zero-rated; ids ending in `:free` need no card
+- `grok-4.7:free` — zero-rated; the `:free` suffix is a good signal but not a guarantee, check `/api/pricing` before relying on one
 
 ```bash
 curl https://crowllm.com/v1/models
