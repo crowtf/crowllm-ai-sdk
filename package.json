@@ -1,6 +1,6 @@
 {
   "name": "crowllm-ai-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CrowLLM provider for the Vercel AI SDK: an OpenAI-compatible gateway with one key for 180+ models and a zero-rated free shelf.",
   "type": "module",
   "main": "index.js",
