@@ -26,7 +26,9 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "@ai-sdk/openai-compatible": ">=1.0.0"
+    "@ai-sdk/openai-compatible": ">=1.0.0",
+    "ai": ">=5.0.0",
+    "zod": ">=3.25.0"
   },
   "devDependencies": {
     "@ai-sdk/openai-compatible": "^3.0.94",
