@@ -39,11 +39,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crowwdev/crowllm-ai-sdk.git"
+    "url": "git+https://github.com/crowtf/crowllm-ai-sdk.git"
   },
   "homepage": "https://crowllm.com",
   "bugs": {
-    "url": "https://github.com/crowwdev/crowllm-ai-sdk/issues"
+    "url": "https://github.com/crowtf/crowllm-ai-sdk/issues"
   },
   "author": "CrowLLM",
   "engines": {
