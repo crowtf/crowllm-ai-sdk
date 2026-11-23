@@ -1,6 +1,6 @@
 # crowllm-ai-sdk
 
-[CrowLLM](https://crowllm.com) provider for the [Vercel AI SDK](https://ai-sdk.dev). CrowLLM is an OpenAI-compatible gateway: one endpoint and one key for 170+ models, with a `:free` shelf next to the paid ids (31 of the 40 `:free` ids were zero-rated on 2026-11-22).
+[CrowLLM](https://crowllm.com) provider for the [Vercel AI SDK](https://ai-sdk.dev). CrowLLM is an OpenAI-compatible gateway: one endpoint and one key for models from several labs, with a `:free` shelf next to the paid ids (31 of the 40 `:free` ids were zero-rated on 2026-11-22).
 
 ## Install
 
