@@ -11,7 +11,7 @@ npm install crowllm-ai-sdk @ai-sdk/openai-compatible
 Until the npm release is out, install the tagged build straight from GitHub:
 
 ```bash
-npm install github:crowwdev/crowllm-ai-sdk#v0.1.0 @ai-sdk/openai-compatible
+npm install github:crowtf/crowllm-ai-sdk#v0.1.0 @ai-sdk/openai-compatible
 ```
 
 ## Usage
