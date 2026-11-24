@@ -43,6 +43,11 @@ Any id from the public catalog works. Commonly used ids:
 curl https://crowllm.com/v1/models
 ```
 
+## Releases
+
+See [Releases](https://github.com/crowtf/crowllm-ai-sdk/releases); the latest tag installs with `npm install github:crowtf/crowllm-ai-sdk#v0.1.1`.
+
+
 ## License
 
 MIT
