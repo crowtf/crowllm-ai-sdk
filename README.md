@@ -1,6 +1,6 @@
 # crowllm-ai-sdk
 
-[CrowLLM](https://crowllm.com) provider for the [Vercel AI SDK](https://ai-sdk.dev). CrowLLM is an OpenAI-compatible gateway: one endpoint and one key for models from several labs, with a `:free` shelf next to the paid ids (31 of the 40 `:free` ids were zero-rated on 2026-11-22).
+[CrowLLM](https://crowllm.com) provider for the [Vercel AI SDK](https://ai-sdk.dev). CrowLLM is an OpenAI-compatible gateway: one endpoint and one key for models from several labs, with a `:free` shelf next to the paid ids (31 of the 39 free-suffixed ids billed at zero when this was written; the shelf rotates, so check `/api/pricing`).
 
 ## Install
 
@@ -8,7 +8,7 @@
 npm install crowllm-ai-sdk @ai-sdk/openai-compatible
 ```
 
-Until the npm release is out, install the tagged build straight from GitHub:
+Prefer a pinned build from GitHub instead of npm:
 
 ```bash
 npm install github:crowtf/crowllm-ai-sdk#v0.1.0 @ai-sdk/openai-compatible
