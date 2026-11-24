@@ -22,7 +22,12 @@
     "crowllm",
     "llm",
     "gateway",
-    "openai-compatible"
+    "openai-compatible",
+    "ai-gateway",
+    "free-tier",
+    "anthropic",
+    "gemini",
+    "claude"
   ],
   "license": "MIT",
   "peerDependencies": {
